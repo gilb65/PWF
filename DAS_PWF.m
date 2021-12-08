@@ -1,6 +1,4 @@
-clear all; close all
-addpath /home/gilberto/MatlabCodes/
-% addpath /home/gilberto/MatlabCodes/PSpicker/
+clearvars; close all
 
 % Simple code for performing Plane Wave Fitting of array data
 % using a sliding window. Code used for analyzing the DAS recording
